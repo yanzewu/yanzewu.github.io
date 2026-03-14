@@ -1,16 +1,11 @@
 # Yanze Wu
 
+Welcome! Please find my CV here: [HTML](research.htm) [PDF](src/CV%20-%20Yanze%20Wu.pdf)
 
+[My Research Projects](research_interest.htm)
 
-Graduate student at Penn. Love physics. Love coding. Love art.
+[My Google Scholar](https://scholar.google.com/citations?user=bebaPQ8AAAAJ)
 
-__Github__: [yanzewu](https://github.com/yanzewu)
+[My Github](https://github.com/yanzewu)
 
-__Academic Goes Here__: [Academic](research.htm).
-
-__Coding Projects Goes Here__: [Coding](coding.htm).
-
-
-<br><br>
-
-<img src="https://avatars.githubusercontent.com/u/20748230?s=460&u=c85d14dc8896efa5eea2a21c0a471e78d94412b1&v=4">
+You may also be interested in [the unit converter](https://yanzewu.github.io/unit_converter/).
