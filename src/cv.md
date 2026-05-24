@@ -1,6 +1,6 @@
 # Yanze Wu
 
-Welcome! Please find my CV here: [HTML](research.htm) [PDF](src/CV%20-%20Yanze%20Wu.pdf)
+Welcome! Please find my CV here: [HTML](research.htm)
 
 [My Research Projects](research_interest.htm)
 

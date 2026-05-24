@@ -35,7 +35,7 @@ TA in Chemical Principle at SJTU (Fall 2018), Inorganic Chemistry Lab at UPenn (
 
 ### Selected Publications
 
-- Wu, Y., & Schatz, G. C. (2026). Real-Time Electron-Electron Scattering Dynamics in Plasmonic Nanostructures. _ACS Nano_, Submitted.
+- Wu, Y., & Schatz, G. C. (2026). Real-Time Electron-Electron Scattering Dynamics in Plasmonic Nanostructures. _ACS Nano_, Online Published.
 - Wu, Y., Rawlinson, J., Littlejohn, R. G., & Subotnik, J. E. (2024). Linear and angular momentum conservation in surface hopping methods. _The Journal of Chemical Physics_, 160(2).
 - Wu, Y., Bian, X., Rawlinson, J. I., Littlejohn, R. G., & Subotnik, J. E. (2022). A phase-space semiclassical approach for modeling nonadiabatic nuclear dynamics with electronic spin. _The Journal of Chemical Physics_, 157(1), 011101.
 - Wu, Y., & Subotnik, J. E. (2021). Electronic spin separation induced by nuclear motion near conical intersections. _Nature Communications_, 12(1), 700.
